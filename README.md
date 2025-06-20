@@ -1,6 +1,4 @@
-<h1 align="center">안녕하세요 👋, 저는 서정안입니다</h1>
-<h3 align="center">끊임없이 배우고 성장하는 백엔드/풀스택 개발자입니다</h3>
-
+<h1 align="center">안녕하세요 👋 저는 서정안입니다</h1> <h3 align="center">모 아니면 도, 그래도 윷은 여전히 매력적이죠. 한번 보실래요?
 ---
 ## 🛠 Tech Stack
 
@@ -79,9 +77,9 @@
 - Docker + GitHub Actions + EC2 자동 배포 환경 구성
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
-- 🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)
-- 🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)
-- 🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)
+  🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)
+  🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)
+  🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)
 
 ---
 
