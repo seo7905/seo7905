@@ -64,21 +64,19 @@
 
 ---
 
-### 💼 MeetU – AI 기반 커리어 매칭 플랫폼  
 💼 MeetU – AI 기반 커리어 매칭 플랫폼
 📆 2025.03 ~ 2025.04
 🛠 Spring Boot + FastAPI + JPA 기반의 AI 분석 플랫폼
-사람인 채용공고 API 연동 및 자동 DB 저장
-금융위원회 기업정보 API 연동 (기업명 기반 사업자번호 보강)
-QueryDSL 기반 채용공고 필터 검색 (지역·직무·경력·학력 등)
-지역/산업/학력 코드 정규화 및 중복 제거 저장 처리
-관리자용 공고 관리 API 별도 분리 (/admin/**)
-문의하기 기능 및 답변 시 이메일 자동 전송 구현
-OpenAI Embedding API 기반 자기소개서 분석 기능
-Docker + GitHub Actions + EC2 자동 배포 환경 구성
-S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동ckend)  
-🔗 [Frontend](https://github.com/seo7905/meet-u-career-frontend)  
-🔗 [AI Service](https://github.com/seo7905/meet-u-career-ai)
+
+- 사람인 채용공고 API 연동 및 자동 DB 저장
+- 금융위원회 기업정보 API 연동 (기업명 기반 사업자번호 보강)
+- QueryDSL 기반 채용공고 필터 검색 (지역·직무·경력·학력 등)
+- 지역/산업/학력 코드 정규화 및 중복 제거 저장 처리
+- 관리자용 공고 관리 API 별도 분리 (/admin/**)
+- 문의하기 기능 및 답변 시 이메일 자동 전송 구현
+- OpenAI Embedding API 기반 자기소개서 분석 기능
+- Docker + GitHub Actions + EC2 자동 배포 환경 구성
+- S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
 ---
 
