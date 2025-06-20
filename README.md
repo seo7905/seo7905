@@ -60,7 +60,7 @@
 - YouTube API로 예고편 삽입, 리뷰/평점 기능 구현
 - JS + jQuery + AJAX 기반 인터랙션 UI
 - 23개 테이블 기반 ERD 구성 및 쿼리 최적화  
-🔗 [프로젝트 링크](https://github.com/seo7905/CinemaProject)
+🔗 [프로젝트 링크](https://github.com/dpdlcl01/CinemaProject)
 
 ---
 
@@ -77,7 +77,10 @@
 - OpenAI Embedding API 기반 자기소개서 분석 기능
 - Docker + GitHub Actions + EC2 자동 배포 환경 구성
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
-
+- 
+🔗 Backend Repo
+🔗 AI Service Repo
+🔗 Frontend Repo
 ---
 
 ## ✏️ 협업 및 개발 문화
