@@ -56,33 +56,3 @@
 🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)  
 🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)  
 🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)
-
----
-
-## 📈 협업 경험 & 개발 문화
-
-- GitHub Flow 기반 브랜치 전략 운영  
-- PR 리뷰 문화로 코드 품질 유지  
-- Confluence로 API 명세, 일정 관리  
-- 설계 → 문서화 → 구현 → 리팩토링 프로세스 주도
-
----
-
-## 📚 기록하는 개발자
-
-- 옵시디언 기반 TIL/WIL & 기술 정리  
-- 주제: JPA 최적화, REST 설계, ERD 구조, AI 연동  
-
-🔗 [기술 블로그 / 포트폴리오](https://dev-donghwa.pages.dev)
-
----
-
-## 📫 Contact
-
-- 📧 Email: dpdlcl0111@gmail.com  
-- 💻 GitHub: [dpdlcl01](https://github.com/dpdlcl01)  
-- 🔗 Blog: [https://dev-donghwa.pages.dev](https://dev-donghwa.pages.dev)
-
----
-
-> “기능 구현을 넘어, 구조적 설계와 데이터 중심 사고로 사용자에게 가치를 전하는 개발자가 되겠습니다.”
