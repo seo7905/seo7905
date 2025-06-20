@@ -70,7 +70,7 @@
 
 
 
-🛠 **Spring Boot + FastAPI + JPA 가반의 AI 분석 플랫폼**
+🛠 **Spring Boot + FastAPI + JPA 기반의 AI 분석 플랫폼**
 
 - 사람인 채용공고 API 연동 및 자동 DB 저장
 - 금융위원회 기업정보 API 연동 (기업명 기반 사업자번호 보강)
