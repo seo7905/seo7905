@@ -77,7 +77,6 @@
 - OpenAI Embedding API 기반 자기소개서 분석 기능
 - Docker + GitHub Actions + EC2 자동 배포 환경 구성
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
-- 
 🔗 Backend Repo
 🔗 AI Service Repo
 🔗 Frontend Repo
