@@ -79,10 +79,10 @@
 - Docker + GitHub Actions + EC2 자동 배포 환경 구성
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
-  
-🔗 Backend Repo
-🔗 AI Service Repo
-🔗 Frontend Repo
+- 🔗 Backend Repo
+- 🔗 AI Service Repo
+- 🔗 Frontend Repo
+
 ---
 
 ## ✏️ 협업 및 개발 문화
