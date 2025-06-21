@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋 저는 서정안입니다</h1> <h3 align="center">모 아니면 도, 그래도 윷은 여전히 매력적이죠. 한번 보실래요?
+<h1 align="center">안녕하세요 👋 개발자 서정안입니다</h1> <h3 align="center">
 
 ---
 
