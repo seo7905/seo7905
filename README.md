@@ -83,9 +83,9 @@
 - Docker + GitHub Actions + EC2 자동 배포 환경 구성
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
-  <p>🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)</p>
-  <p>🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)</p>
-  🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)
+<p>🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)</p>
+<p>🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)</p>
+🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)
 
 ---
 
