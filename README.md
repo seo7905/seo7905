@@ -84,7 +84,9 @@
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
   🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)
+  </dr>
   🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)
+  </dr>
   🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)
 
 ---
