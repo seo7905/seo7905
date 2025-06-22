@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋</h1> <h3 align="center">
+<h1 align="center">Hello, world! 👋</h1> <h3 align="center">
 
 ---
 
