@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋 개발자 서정안입니다</h1> <h3 align="center">
+<h1 align="center">안녕하세요 👋</h1> <h3 align="center">
 
 ---
 
