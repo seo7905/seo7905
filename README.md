@@ -57,9 +57,7 @@
 
 - 로그인 및 회원가입 등 구현
 - 관리자 기능(상품 관리 등) 포함
-- YouTube API로 예고편 삽입, 리뷰/평점 기능 구현
 - JS + jQuery + AJAX 기반 인터랙션 UI
-- 23개 테이블 기반 ERD 구성 및 쿼리 최적화
 - 전체적인 프론트엔드 일치화 및 수정
 
 🔗 [프로젝트 링크](https://github.com/dpdlcl01/CinemaProject)
@@ -77,15 +75,11 @@
 - 금융위원회 기업정보 API 연동 (기업명 기반 사업자번호 등)
 - QueryDSL 기반 채용공고 필터 검색 (지역·직무·경력·학력 등)
 - 지역/산업/학력 코드 정규화 및 중복 제거 저장 처리
-- 관리자용 공고 관리 API 별도 분리 (/admin/**)
-- 문의하기 기능 및 답변 시 이메일 자동 전송 구현
-- OpenAI Embedding API 기반 자기소개서 분석 기능
-- Docker + GitHub Actions + EC2 자동 배포 환경 구성
 - S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
 <p>🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)</p>
 <p>🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)</p>
-🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)
+<p>🔗 [Frontend Repo](https://github.com/dpdlcl01/meet-u-career-frontend)</p>
 
 ---
 
