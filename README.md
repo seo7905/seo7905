@@ -75,7 +75,6 @@
 - 금융위원회 기업정보 API 연동 (기업명 기반 사업자번호 등)
 - QueryDSL 기반 채용공고 필터 검색 (지역·직무·경력·학력 등)
 - 지역/산업/학력 코드 정규화 및 중복 제거 저장 처리
-- S3 Presigned URL 업로드 / JWT 로그인 / 결제 API 연동
 
 <p>🔗 [Backend Repo](https://github.com/dpdlcl01/meet-u-career-backend)</p>
 <p>🔗 [AI Service Repo](https://github.com/dpdlcl01/meet-u-career-ai)</p>
