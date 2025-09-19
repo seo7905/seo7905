@@ -66,7 +66,7 @@
 
 - 사람인 API → 자동 DB 저장  
 - 금융위 API → 기업명 기반 사업자번호 매핑  
-- 필터 검색(지역/직무/경력/학력) 구현  
+- QueryDSL 기반 필터 검색(지역/직무/경력/학력) 구현  
 - 데이터 정규화 및 중복 제거 처리  
 
 🔗 [Backend](https://github.com/dpdlcl01/meet-u-career-backend)  
